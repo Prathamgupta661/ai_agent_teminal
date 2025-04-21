@@ -17,6 +17,7 @@ This project is an AI-powered task automation agent that generates step-by-step 
    ```bash
    git clone https://github.com/your-repo/ai_agent_teminal.git
    cd ai_agent_teminal
+   
 ## Setting Up
  ```bash
 1. pip install virtualenv
